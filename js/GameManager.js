@@ -89,7 +89,7 @@ function Start(){
 	camera.y = player.y;		
 
 	// Audio Setting
-	music_stage1.src = 'sound/Music/Into_the_mars.mp3';
+	music_stage1.src = 'sound/Music/Into_the_Mars.mp3';
 	music_stage1.loop = true;
 }
 function LevelGenerating(){
